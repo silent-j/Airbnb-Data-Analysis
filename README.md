@@ -23,7 +23,7 @@ Main Libraries used in this proejct are:
   Seaborn and Matplotlib - for data visualization
 
 Datasets have been provided by insideairbnb.com
-The blog post can be found on Medium.com here: []
+The blog post can be found on Medium.com here: https://medium.com/@james23mcdermott/hablas-airbnb-a2d2116a08c4
 
 For this project, I sought out to answer the following questions about the AirBnB data for Barcelona, Madrid, and Valencia:
 
