@@ -8,12 +8,11 @@ The blog post can be found on Medium.com here: []
 
 For this project, I sought out to answer the following questions about the AirBnB data for Barcelona, Madrid, and Valencia:
 
-1. How does pricing compare among all 3 cities throughout the year? Can we identify a 'peak' season of prices?
+1. How does pricing compare among all 3 cities throughout the year? 
 
-2. Where are the highest average listing prices in each city?
+2. How does the distribution of prices for each city differ from one another?
 
-3. What features of an AirBnB listing influence price for major cities in Spain?
+3. Where might we find the most expensive listings in each city?
 
-4. Are there features that influence price differently for each city?
+4. What features of an AirBnB listing influence price for major cities in Spain?
 
-The first two questions will be answered through descriptive statistics and appropriate visualizations. The third and fourth questions will involve a Linear Regression model, which will be chosen from the Scikit-Learn Library.
